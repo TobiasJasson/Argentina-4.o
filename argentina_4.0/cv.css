@@ -1,0 +1,85 @@
+.Encabezado {
+    font-size: 35px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.introduccion {
+    background-color: #2F5A78;
+    color:#670404;
+    padding: 25px;
+    margin-bottom: 4px;
+}
+body {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
+}
+.Profecion {
+    font-size: 25px;
+    font-weight:lighter;
+}
+.InfoDeContacto {
+    font-size: 15px;
+    padding-left:16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color:#04033f;
+}
+.SubEncabezado {
+    font-size: 20px;
+    font-weight:bolder;
+    color: #2F5A78;
+    text-transform: uppercase;
+}
+#BloqueSocial {
+    border:1px dashed rgb(43, 5, 140);
+    padding:5px;
+    font-size:15px;
+}
+
+
+.Icono{
+    color: #2F5A78;
+}
+.Datos{
+    font-size: 16px;
+    color: #2F5A78;
+    font-weight: bold;
+}
+.NombreDelTrabajo {
+    font-weight:bold;
+}
+
+.Habilidades ul li{
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -15px;
+}
+
+.Habilidades ul li .Habilidad_Prog{
+    width: 60%;
+    height: 5px;
+    position: relative;
+}
+.Habilidades ul li .Habilidad_Prog span{
+    position: absolute;
+    height: 100%;   
+    background: #2F5A78;
+    padding-right: 50px;
+}
+.TrabajoEnEquipo{
+    width: 15px;
+}
+.Habilidad_Per{
+    margin-right: 15px;
+}
+img{
+    float: right;
+}
+.Icono{
+    float: left;
+    color: #2F5A78;
+}
+
+
+
